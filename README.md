@@ -7,7 +7,7 @@
   Just another Computer Science student trying to figure stuff out, exploring code, creativity and everything in between...
 </h3>
 
-- 🔭 I’m currently working on a **Vocoder**  
+- 🔭 I’m currently working on a **Text-to-3D Diffusion Models**  
 - 🌱 I’m currently learning **Python**  
 - 💬 Ask me about **C++, HTML, CSS, JavaScript**  
 - 📫 How to reach me: **cbisht_be22@gmail.com**  
